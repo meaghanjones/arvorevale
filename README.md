@@ -1,13 +1,7 @@
-# [Start Bootstrap](http://startbootstrap.com/) - [Freelancer](http://startbootstrap.com/template-overviews/freelancer/)
+# [Arvore Vale](http://startbootstrap.com/) - [Freelancer](http://startbootstrap.com/template-overviews/freelancer/)
 
 [Freelancer](http://startbootstrap.com/template-overviews/freelancer/) is a one page freelancer portfolio theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/). This theme features several content sections, a responsive portfolio grid with hover effects, full page portfolio item modals, and a working PHP contact form.
 
-## Getting Started
-
-To begin using this template, choose one of the following options to get started:
-* [Download the latest release on Start Bootstrap](http://startbootstrap.com/template-overviews/freelancer/)
-* Clone the repo: `git clone https://github.com/BlackrockDigital/startbootstrap-freelancer.git`
-* Fork the repo
 
 ## Bugs and Issues
 
@@ -15,13 +9,12 @@ Have a bug or an issue with this template? [Open a new issue](https://github.com
 
 ## Creator
 
-Start Bootstrap was created by and is maintained by **[David Miller](http://davidmiller.io/)**, Owner of [Blackrock Digital](http://blackrockdigital.io/).
+The Arvore Livre website was created by and is maintained by **[Meaghan Jones](http://meaghanjones.com/)**
 
-* https://twitter.com/davidmillerskt
-* https://github.com/davidtmiller
+* https://github.com/meaghanjones
 
-Start Bootstrap is based on the [Bootstrap](http://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).
+The Arvore Livre website is based on the [Bootstrap](http://getbootstrap.com/) framework.
 
 ## Copyright and License
 
-Copyright 2013-2016 Blackrock Digital LLC. Code released under the [MIT](https://github.com/BlackrockDigital/startbootstrap-freelancer/blob/gh-pages/LICENSE) license.
+Copyright 2017 under the  MIT license.
