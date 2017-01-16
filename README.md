@@ -5,13 +5,11 @@
 
 ## Bugs and Issues
 
-Have a bug or an issue with this template? [Open a new issue](https://github.com/BlackrockDigital/startbootstrap-freelancer/issues) here on GitHub or leave a comment on the [template overview page at Start Bootstrap](http://startbootstrap.com/template-overviews/freelancer/).
+Have a bug or an issue with this website? Contact Meaghan.
 
 ## Creator
 
 The Arvore Livre website was created by and is maintained by **[Meaghan Jones](http://meaghanjones.com/)**
-
-* https://github.com/meaghanjones
 
 The Arvore Livre website is based on the [Bootstrap](http://getbootstrap.com/) framework.
 
